@@ -1,7 +1,6 @@
 python-telegram-bot[job-queue]>=20.0
 pyrogram
 tgcrypto
-pytgcalls
+py-tgcalls
 yt-dlp
 openai
-
